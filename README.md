@@ -10,10 +10,6 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
 Website has a simple navigation functionality in the top right. Click a section to be guided to its corresponding heading.
 
 ![alt text](./assets/images/website-image.png)
